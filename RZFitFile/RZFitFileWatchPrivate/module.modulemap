@@ -1,0 +1,4 @@
+module RZFitFileTypes {
+	   header "../RZFitFileWatch-Bridging-Header.h"
+	   export *
+}

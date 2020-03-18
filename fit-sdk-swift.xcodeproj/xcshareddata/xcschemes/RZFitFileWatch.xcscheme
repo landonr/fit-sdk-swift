@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "422C59302211E43C004AC730"
-               BuildableName = "RZFitFile.framework"
-               BlueprintName = "RZFitFile"
+               BlueprintIdentifier = "44FA9FF72422D91900C7BA5E"
+               BuildableName = "RZFitFileWatch.framework"
+               BlueprintName = "RZFitFileWatch"
                ReferencedContainer = "container:fit-sdk-swift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -40,15 +40,6 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "422C59302211E43C004AC730"
-            BuildableName = "RZFitFile.framework"
-            BlueprintName = "RZFitFile"
-            ReferencedContainer = "container:fit-sdk-swift.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -59,9 +50,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "422C59302211E43C004AC730"
-            BuildableName = "RZFitFile.framework"
-            BlueprintName = "RZFitFile"
+            BlueprintIdentifier = "44FA9FF72422D91900C7BA5E"
+            BuildableName = "RZFitFileWatch.framework"
+            BlueprintName = "RZFitFileWatch"
             ReferencedContainer = "container:fit-sdk-swift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

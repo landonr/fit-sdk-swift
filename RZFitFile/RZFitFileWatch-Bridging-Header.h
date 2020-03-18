@@ -9,9 +9,9 @@
 #ifndef fittest_Bridging_Header_h
 #define fittest_Bridging_Header_h
 
-#include <RZFitFile/fit_config.h>
-#include <RZFitFile/fit_example.h>
-#include <RZFitFile/fit_convert.h>
-#include <RZFitFile/rzfit_parse_dev_data.h>
+#include <RZFitFileWatch/fit_config.h>
+#include <RZFitFileWatch/fit_example.h>
+#include <RZFitFileWatch/fit_convert.h>
+#include <RZFitFileWatch/rzfit_parse_dev_data.h>
 
 #endif /* fittest_Bridging_Header_h */
